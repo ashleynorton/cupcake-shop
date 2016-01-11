@@ -6,7 +6,7 @@ Following along with Epicodus' coursework that has been put up freely on learnho
 #### **By Ashley Norton**
 
 ## Description
-This project will be built for a faux cupcake shop to practice using classes within HTML and CSS.
+This project will be a faux website for a cupcake shop to practice using classes within HTML and CSS.
 
 ## Setup/Installation Requirements
 
