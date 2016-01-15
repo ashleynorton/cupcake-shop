@@ -1,6 +1,6 @@
 body {
   margin: 0;
-  background-color: #F2E1AC;
+  background-color: #FFFFFF;
 }
 
 /*** Navigation ***/
@@ -10,13 +10,13 @@ nav {
   padding: 30px 0 30px 0;
   text-align: center;
   letter-spacing: 3px;
-  color: #F2E1AC;
+  color: #FFFFFF;
   background-color: #8FD3CB;
 }
 
 nav a {
   text-decoration: none;
-  color: #F2E1AC;
+  color: #FFFFFF;
   margin-right: 5px;
   font-size: 20px;
 }
@@ -50,5 +50,5 @@ footer {
   background-color: #F2594B;
   padding: 30px 0 30px 5px;
   margin-top: 220px;
-  color: #F2E1AC;
+  color: #FFFFFF;
 }
